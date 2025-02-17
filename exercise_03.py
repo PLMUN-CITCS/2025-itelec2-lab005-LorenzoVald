@@ -16,4 +16,4 @@ result7 = a ** c
 print("Result of a % b (modulus):", result6) 
 print("Result of a ** c (exponentation) :", result7) 
 result8 = (a+ b - c) + (a / b)
-print("Result of (a + b - c) * (a / b):", result8) 
+print("Result of (a + b - c) * (a / b):", result8)
